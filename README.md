@@ -5,7 +5,7 @@ Write a command line program that takes several CSV files as arguments. Each CSV
 Input & Output
 We will run your code as follows
 
-$ ./csv-combiner.php ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
+$ ./csv_combiner.php ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
 However, the CSV files inside the fixtures are not the only files we will run through. We will run your code through files > 2 GB to see if you hit memory limits.
 
 Example
